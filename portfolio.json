@@ -1,0 +1,16 @@
+{
+    "title": "Personal Information",
+    "description": "Breifly introduction!",
+    "Projects": [
+        {"id" : "1" , "name": "Flappy Bird" , "Date": "1/1/2022" },
+        {"id" : "2" , "name": "Messaging App" , "Date": "10/1/2022"},
+        {"id" : "3" , "name": "Music App " , "Date": "1/5/2022"},
+        {"id" : "1" , "name": "Hotel Booking" , "Date": "1/6/2022"}
+      ],
+      "Interests": [
+        {"id" : "1" , "name": "Coding"  },
+        {"id" : "2" , "name": "Swimming"},
+        {"id" : "3" , "name": "Cricket " },
+        {"id" : "1" , "name": "Gaming"}
+      ]
+}

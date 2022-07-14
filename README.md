@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Shayan Ejaz](http://shayandev.me)
 * ✉️  You can contact me at [shayanejaz0000@gmail.com](mailto:shayanejaz0000@gmail.com)
 * 🧠  I'm learning Web,Blockchain and Cloud
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shayn468&label=Profile%20views&color=0e75b6&style=plastic" alt="shayn468" /> </p>
 ![](https://komarev.com/ghpvc/?username=shayn468)
 
 ### Skills

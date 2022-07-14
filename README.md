@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shayan Ejaz
 ===================================================================================================================================
 
-Full Stack Web Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 ------------------------
 
 * 🌍  I'm based in Islamabad
 * 🖥️  See my portfolio at [Shayan Ejaz](http://shayandev.me)
 * ✉️  You can contact me at [shayanejaz0000@gmail.com](mailto:shayanejaz0000@gmail.com)
 * 🧠  I'm learning Web,Blockchain and Cloud
+
+![](https://komarev.com/ghpvc/?username=shayn468)
 
 ### Skills
 

@@ -17,90 +17,98 @@ import {
   import m2 from "./images/musicapp/music.PNG"
   import h2 from "./images/booking/hotelssearch.PNG"
   import r2 from "./images/smartrestaurant/signinscreen.PNG"
+  import al1 from "./images/alqaryahauction.png"
   
-  // export const Experience = [
-  //   {
-  //     id: 1,
-  //     date: "2016 - present",
-  //     iconsSrc: <IoCodeWorking />,
-  //     title: "Creative Director",
-  //     location: "Doha, Qatar",
-  //     description:
-  //       "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-  //   },
-  //   {
-  //     id: 2,
-  //     date: "2014 - 2016",
-  //     iconsSrc: <IoCodeWorking />,
-  //     title: "Creative Director",
-  //     location: "Doha, Qatar",
-  //     description:
-  //       "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-  //   },
-  //   {
-  //     id: 3,
-  //     date: "2012 - 2014",
-  //     iconsSrc: <IoCodeWorking />,
-  //     title: "Creative Director",
-  //     location: "Doha, Qatar",
-  //     description:
-  //       "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-  //   },
-  //   {
-  //     id: 4,
-  //     date: "2011 - 2012",
-  //     iconsSrc: <IoCodeWorking />,
-  //     title: "Creative Director",
-  //     location: "Doha, Qatar",
-  //     description:
-  //       "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-  //   },
-  //   {
-  //     id: 5,
-  //     date: "2010 - 2011",
-  //     iconsSrc: <IoCodeWorking />,
-  //     title: "Creative Director",
-  //     location: "Doha, Qatar",
-  //     description:
-  //       "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-  //   },
-  // ];
+  export const Experience = [
+    {
+      id: 1,
+      date: "2020 - present",
+      iconsSrc: <IoCodeWorking />,
+      title: "Freelancing",
+      location: "Remote",
+      description:
+        "Web developmment, Mobile Development, User Experience, Project Management",
+    },
+    {
+      id: 2,
+      date: "2022 - 2022",
+      iconsSrc: <IoCodeWorking />,
+      title: "Internship as full Stack Developer",
+      location: "Rawalpindi",
+      description:
+        "API, User Experience, Backend Pagination, React State Management",
+    },
+    // {
+    //   id: 3,
+    //   date: "2012 - 2014",
+    //   iconsSrc: <IoCodeWorking />,
+    //   title: "Creative Director",
+    //   location: "Doha, Qatar",
+    //   description:
+    //     "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+    // },
+    // {
+    //   id: 4,
+    //   date: "2011 - 2012",
+    //   iconsSrc: <IoCodeWorking />,
+    //   title: "Creative Director",
+    //   location: "Doha, Qatar",
+    //   description:
+    //     "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+    // },
+    // {
+    //   id: 5,
+    //   date: "2010 - 2011",
+    //   iconsSrc: <IoCodeWorking />,
+    //   title: "Creative Director",
+    //   location: "Doha, Qatar",
+    //   description:
+    //     "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+    // },
+  ];
   
   export const Projects = [
     {
       id: 1,
       name: "Smart Restaurant",
       imageSrc: r1,
-      techs: "React Native, Redux, Authorization, Javascript",
+      techs: "React Native, Redux, Authorization, Javascript, Context Api",
       github: "https://github.com/shayn468/smartRestaurant",
     },
     {
       id: 2,
       name: "Booking App Clone",
       imageSrc: h1,
-      techs: "MongoDv, Express Js, React Js, Node Js, JWT, Context Api",
-      github: "#",
+      techs: "MongoDb, Express Js, React Js, Node Js, JWT, Context Api",
+      github: "https://github.com/shayn468/Booking",
     },
     {
       id: 3,
       name: "Flappy Bird using Artificial Intelligence",
       imageSrc: f1,
-      techs: "React Js, Chakra UI, Google API",
+      techs: "Python, Nueral Networks, NEAT, Pygame",
       github: "https://github.com/shayn468/FlappyBird",
     },
     {
       id: 4,
       name: "Music-Hub",
       imageSrc: m1,
-      techs: "React Js,  Material UI",
+      techs: "React Js, Spotify Api",
       github: "https://github.com/shayn468/Music-App",
     },
     {
       id: 5,
       name: "Stocked Grocer",
       imageSrc: s1,
-      techs: "React Js, Chara UI, Firebase",
+      techs: "Laravel, Jquery , Authorization, Authentication, CRUD",
       github: "https://github.com/shayn468/StockedGrocer",
+    },
+    {
+      id: 5,
+      name: "Alqaryah Auction System",
+      imageSrc: al1,
+      techs: "React Js, SQL, Authorization, Authentication, CRUD",
+      github: "https://alqaryahauction.com/",
     },
     // {
     //   id: 6,
@@ -141,21 +149,21 @@ import {
       id: 1,
       iconSrc: <IoLogoGithub className="text-textBase text-3xl cursor-pointer" />,
       name: "GitHub",
-      link: "#",
+      link: "https://github.com/shayn468",
     },
-    {
-      id: 1,
-      iconSrc: <IoLogoYoutube className="text-red-500 text-3xl cursor-pointer" />,
-      name: "YouTube",
-      link: "#",
-    },
+    // {
+    //   id: 1,
+    //   iconSrc: <IoLogoYoutube className="text-red-500 text-3xl cursor-pointer" />,
+    //   name: "YouTube",
+    //   link: "#",
+    // },
     {
       id: 1,
       iconSrc: (
         <IoLogoTwitter className="text-blue-500 text-3xl cursor-pointer" />
       ),
       name: "Twitter",
-      link: "#",
+      link: "https://twitter.com/shayn_dev",
     },
     {
       id: 1,
@@ -163,14 +171,14 @@ import {
         <IoLogoLinkedin className="text-blue-800 text-3xl cursor-pointer" />
       ),
       name: "LinkedIn",
-      link: "#",
+      link: "https://www.linkedin.com/in/shayan-ejaz/",
     },
-    {
-      id: 1,
-      iconSrc: (
-        <IoLogoWhatsapp className="text-green-500 text-3xl cursor-pointer" />
-      ),
-      name: "Whatsapp",
-      link: "#",
-    },
+    // {
+    //   id: 1,
+    //   iconSrc: (
+    //     <IoLogoWhatsapp className="text-green-500 text-3xl cursor-pointer" />
+    //   ),
+    //   name: "Whatsapp",
+    //   link: "#",
+    // },
   ];

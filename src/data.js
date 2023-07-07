@@ -22,7 +22,7 @@ import {
   export const Experience = [
     {
       id: 1,
-      date: "2020 - present",
+      date: "2020 - 2022",
       iconsSrc: <IoCodeWorking />,
       title: "Freelancing",
       location: "Remote",
@@ -37,6 +37,15 @@ import {
       location: "Rawalpindi",
       description:
         "API, User Experience, Backend Pagination, React State Management",
+    },
+    {
+      id: 3,
+      date: "2022 - Present",
+      iconsSrc: <IoCodeWorking />,
+      title: "Full Stack Developer",
+      location: "Rawalpindi",
+      description:
+        "Providing services Web app development, Mobile app development",
     },
     // {
     //   id: 3,

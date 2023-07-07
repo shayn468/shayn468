@@ -75,7 +75,7 @@ function About() {
         </div>
       </section>
 
-      <section className="w-full flex items-center justify-center">
+      <section className="w-full flex items-center justify-center" id = "experience">
       <VerticalTimeline>
         {Experience &&
           Experience.map((n) => (

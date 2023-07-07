@@ -34,6 +34,12 @@ function Header() {
           About
         </a>
         <a
+          href="#experience"
+          className="text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out"
+        >
+          Experience
+        </a>
+        <a
           href="#projects"
           className="text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out"
         >
@@ -82,6 +88,13 @@ function Header() {
             onClick={() => setIsActive(false)}
           >
             About
+          </a>
+          <a
+            href="#experience"
+            className="text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in"
+            onClick={() => setIsActive(false)}
+          >
+            Experience
           </a>
           <a
             href="#projects"

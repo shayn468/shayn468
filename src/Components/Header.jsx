@@ -51,12 +51,12 @@ function Header() {
         >
           Contact
         </a>
-        <a
+        {/* <a
           href="https://drive.google.com/file/d/17HTo6qI45eQZ4kKDmP3vTtu_iARSFmfa/view?usp=sharing"
           className="ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in"
         >
           Download
-        </a>
+        </a> */}
       </div>
 
       <motion.div
@@ -110,7 +110,7 @@ function Header() {
           >
             Contact
           </a>
-          <motion.a
+          {/* <motion.a
             initial={{ opacity: 0, scale: 0.5 }}
             animate={{ opacity: 1, scale: 1.1 }}
             exit={{ opacity: 0, scale: 0.5 }}
@@ -120,7 +120,7 @@ function Header() {
             onClick={() => setIsActive(false)}
           >
             Download
-          </motion.a>
+          </motion.a> */}
         </motion.div>
       )}
     </div>
